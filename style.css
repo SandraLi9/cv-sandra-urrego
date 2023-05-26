@@ -1,0 +1,10 @@
+*{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image-profile{
+    border-radius: 100px;
+}
+.profile-description{
+    text-align:justify;
+}
